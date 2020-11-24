@@ -1,6 +1,6 @@
 "use strict"
 
-const dgram = require("dgram")
+import dgram from 'react-native-udp'
 
 const is = require("@sindresorhus/is")
 const pEvent = require("p-event")

@@ -38,7 +38,8 @@
 		"@sindresorhus/is": "^2.1.0",
 		"ntp-packet-parser": "^0.1.0",
 		"p-event": "^4.1.0",
-		"p-timeout": "^3.2.0"
+		"p-timeout": "^3.2.0",
+		"react-native-udp": "^4.0.3"
 	},
 	"devDependencies": {
 		"ava": "^3.5.1",
